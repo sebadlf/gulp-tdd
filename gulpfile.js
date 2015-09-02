@@ -1,7 +1,6 @@
 var gulp = require('gulp'),
     selenium = require('selenium-standalone'),
     nightwatch = require('gulp-nightwatch'),
-    plumber = require('gulp-plumber'),
     connect = require('gulp-connect');
 
 function errorLog(error){
