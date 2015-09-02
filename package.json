@@ -1,0 +1,9 @@
+{
+  "name": "gulp-tdd",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nightwatch": "^0.2.4",
+    "gulp-plumber": "^1.0.1"
+  }
+}

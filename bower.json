@@ -1,0 +1,19 @@
+{
+  "name": "gulp-tdd",
+  "version": "1.0.0",
+  "authors": [
+    "Globant Labs"
+  ],
+  "description": "Gult TDD Nightwatch Demo",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5"
+  }
+}
